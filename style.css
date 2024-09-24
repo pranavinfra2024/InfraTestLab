@@ -1,0 +1,57 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+html{
+	font-size: 100%;
+}
+body{
+        font-family: 'Poppins',sans-serif;
+        overflow-x: hidden;
+}
+body{
+    background-image: url(jamar-penny-ZgmGq_eFmUs-unsplash.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+nav img{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+nav img span{
+    align-items: center;
+    align
+}
+nav {
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    height: 55px;
+
+}
+nav ul{
+    margin: 20px;
+    padding: 10px 10px;
+    display: flex;
+    text-content: center;
+    list-style-type: none;
+    color: white;
+}
+nav ul li{
+    align-text: center;
+    margin: 0px;
+    padding: 10px 10px;
+    background-color: white;
+    color: black;
+}
+#main{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(290, 50, 20);
+
+}
+
